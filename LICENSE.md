@@ -1,4 +1,4 @@
-# 
+# Atom for PC | Atom for Windows instant Script: live-share & code-folding offers the most advanced Atom for PC | Atom for Windows script, with live-share and code-folding. Ideal
 
 
 
